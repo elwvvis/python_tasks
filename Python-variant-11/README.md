@@ -1,12 +1,6 @@
-# 🚀 LeetCode Solutions
+# 😺 LeetCode Solutions
 
 Welcome! This repository features my solutions to various algorithmic problems from the **LeetCode** platform. It serves as a personal archive for practicing data structures, refining logic, and preparing for technical interviews.
-
----
-
-## 🛠️ Language Selection
-
-All problems are solved using **Python**. This language was chosen for its conciseness and clean readability, allowing me to completely focus on the core logic of the algorithms rather than getting distracted by complex syntax.
 
 ---
 
