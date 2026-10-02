@@ -1,12 +1,12 @@
-# 😺 LeetCode Solutions
+LeetCode Solutions
 
 Welcome! This repository features my solutions to various algorithmic problems from the **LeetCode** platform. It serves as a personal archive for practicing data structures, refining logic, and preparing for technical interviews.
 
 ---
 
-## 📋 Repository Content
+Repository Content
 
-### 🟨 45. Jump Game II
+45. Jump Game II
 * **Solution Folder:** [`45-Jump-game-II`](./Python-variant-11/45-Jump-game-II/)
 * **Difficulty:** Medium
 
@@ -18,7 +18,7 @@ Welcome! This repository features my solutions to various algorithmic problems f
 
 ---
 
-### 🟩 121. Best Time to Buy and Sell Stock
+121. Best Time to Buy and Sell Stock
 * **Solution Folder:** [`121-Best-time-to-buy-and-sell-stock`](./Python-variant-11/121-Best-time-to-buy-and-sell-stock/)
 * **Difficulty:** Easy
 
@@ -30,7 +30,7 @@ Welcome! This repository features my solutions to various algorithmic problems f
 
 ---
 
-### 🟩 1309. Decrypt String from Alphabet to Integer Mapping
+1309. Decrypt String from Alphabet to Integer Mapping
 * **Solution Folder:** [`1309-Decrypt-string-from-aplhabet-to-integer`](./Python-variant-11/1309-Decrypt-string-from-aplhabet-to-integer/)
 * **Difficulty:** Easy
 
